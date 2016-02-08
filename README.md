@@ -1,5 +1,5 @@
 # path_finder
-This simple python script is a simple application of djisktra's path finding algorithm in IIT kanpur campus . The main focus of this program is to help the first year students to get around the huge campus easily using shortcuts. The script uses the famous djikstra's algorithm to find shortest path and then convert the result into user readable form and the directions are easy to read. 
+This simple python script is a simple application of Dijkstra's algorithm in IIT kanpur campus . The main focus of this program is to help the first year students to get around the huge campus easily using shortcuts. The script uses the famous Dijkstra's algorithm to find shortest path and then convert the result into user readable form and the directions are easy to read. 
 
 
 # Prerequisites
@@ -18,6 +18,6 @@ This opens a User interface where the user can choose the source and destination
 
 https://www.ics.uci.edu/~eppstein/161/python/dijkstra.py
 
-The main challenge in this program was to convert the paths to readable form for the user. I included the above code for Djisktra's  algorithm since application was the priority.
+The main challenge in this program was to convert the paths to readable form for the user. I included the above code for Dijkstra's algorithm since application was the priority.
 
 
